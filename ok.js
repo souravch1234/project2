@@ -1,5 +1,2 @@
-//add new features
-
-let a = 3 
+let a = 4 
 console.log(a);
-console.log("hnji")
